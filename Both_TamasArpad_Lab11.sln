@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{88353A6F-6589-4AA1-A4B7-DFFD652BF47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Both_TamasArpad_Lab11", "Both_TamasArpad_Lab11\Both_TamasArpad_Lab11.csproj", "{0D8F5714-8408-43B4-97D4-AAB983E361A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88353A6F-6589-4AA1-A4B7-DFFD652BF47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88353A6F-6589-4AA1-A4B7-DFFD652BF47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88353A6F-6589-4AA1-A4B7-DFFD652BF47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88353A6F-6589-4AA1-A4B7-DFFD652BF47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8F5714-8408-43B4-97D4-AAB983E361A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8F5714-8408-43B4-97D4-AAB983E361A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8F5714-8408-43B4-97D4-AAB983E361A5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0D8F5714-8408-43B4-97D4-AAB983E361A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8F5714-8408-43B4-97D4-AAB983E361A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8F5714-8408-43B4-97D4-AAB983E361A5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F4833B-B00E-4752-85A6-6F27C7F00739}
+	EndGlobalSection
+EndGlobal
